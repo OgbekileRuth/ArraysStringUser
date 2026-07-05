@@ -35,7 +35,7 @@ namespace ArraysStringUser
 
         public static void SearchSubstring()
         {
-            string str = "Blue Tooth";
+            string str = "Red Tooth";
             int index = str.IndexOf("Tooth");
 
             Console.WriteLine($"Index of 'Tooth': {index}");
