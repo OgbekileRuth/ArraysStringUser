@@ -21,11 +21,22 @@ namespace ArraysStringUser
 
             ArraysStringUsers.SubstringOperation();
             ArraysStringUsers.SearchSubstring();
-            ArraysStringUsers.ReplaceString();
+              ArraysStringUsers.ReplaceString();
             ArraysStringUsers.ComparisonofString();
+            StringManipulation.StringReversal();
+            StringManipulation.StringTrim();
+            StringManipulation.StringTrimI();
+            StringManipulation.StringTrimII();
+            StringManipulation.StringFormat();
+            StringManipulation.StringSplit();
+
+
+
+
+
         }
-        
-        }
+
+    }
     }
     
 
