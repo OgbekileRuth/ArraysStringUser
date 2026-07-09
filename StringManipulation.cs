@@ -44,8 +44,8 @@ namespace ArraysStringUser
 
         public static void StringFormat()
         {
-            string name = "Sarian";
-            int age = 30;
+            string name = "Martins";
+            int age = 40;
             string result = string.Format("Hello {0}, you are {1} years old.", name, age);
             Console.WriteLine(result);
 
@@ -61,8 +61,8 @@ namespace ArraysStringUser
             string[] words = sentence.Split(' ');
 
             foreach (string word in words)
-            
-             Console.WriteLine(word);
+
+                Console.WriteLine(word);
             
         }
        
